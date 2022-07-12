@@ -2,7 +2,8 @@
 # Master-Mind
 
 
-![Brain Game](https://user-images.githubusercontent.com/70008922/178486106-0c5b3307-b2b5-4db2-aed8-88867392231c.png)
-![BrainGame](https://user-images.githubusercontent.com/70008922/178486108-7718d023-870d-4534-807c-840b041e98fb.png)
+
+![MasterMind](https://user-images.githubusercontent.com/70008922/178487487-1f72de8f-7b7c-4a2f-8403-5bf185d135f0.jpeg)
+
 
 https://mahak-hingar.github.io/Master-Mind/Brain%20Game/index
